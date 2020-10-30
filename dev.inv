@@ -1,2 +1,2 @@
 [webservers]
-127.0.0.1   host2
+host1 ansiblehost=127.0.0.1
